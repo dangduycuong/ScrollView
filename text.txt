@@ -1,0 +1,3 @@
+Hiểu dược cách Layout scrollView
+
+9h35 Thứ 3 - 16.01.2019
